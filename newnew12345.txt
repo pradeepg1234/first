@@ -2,3 +2,6 @@ mergetest1
 mergetes2
 mergetest3
 
+modify1
+modify2
+modify3
